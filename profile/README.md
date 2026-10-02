@@ -18,7 +18,7 @@ Designed and made to measure **[MadeAPT](https://www.madeapt.com/sparkle-led-dre
 |---|---|---|
 | **V1** | She Codes Perth showcase, Feb 2026 | 600-LED strip waterfall, 8×32 LED matrix logo, proximity sensor flash |
 | **V2** | Brisbane, Apr 2026 | 300-LED strip, chained LED rings, distance sensor, microphone that reacts to the crowd, one power bank per zone |
-| **V3** | Sydney, Jun 2026 | Audience website + QR code, music recognition trial |
+| **V3** | Sydney, Jun 2026 | Music recognition trial |
 | **V4** | DDD Perth, 3 Oct 2026 | Revealed on the day ✨ |
 
 ## Repositories
