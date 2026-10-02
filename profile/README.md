@@ -12,7 +12,7 @@ Built for the amazing Kate Kirwin by the She Codes Community.
 
 Project Sparkle began in 2025 during the **She Codes Plus** program. In a Python sprint, mentor Jordan Duabe and She Codes Australia founder **Kate Kirwin** brought in projects built with Python and LEDs, and Kate mentioned a dress she'd love to create with addressable lights. **Tammy Healy** took one look and knew she had to make it happen. The name comes from Kate's motto: *"Always Bring The Sparkle."*
 
-Designed and made the garment to measure **[MadeAPT](https://www.madeapt.com/sparkle-led-dress)**, then women from the She Codes community added addressable LED strips, rings and matrix (plus other components). Since its debut, the dress has grown with every outing:
+Designed and made to measure **[MadeAPT](https://www.madeapt.com/sparkle-led-dress)** created the dress (click the link to see the story and amazing work Nina Karisik does), then women from the She Codes community added addressable LED strips, rings and matrix (plus other components). Since its debut, the dress has grown with every outing:
 
 | Version | Showcase | What it added |
 |---|---|---|
